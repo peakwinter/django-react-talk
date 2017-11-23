@@ -1,0 +1,9 @@
+node_modules
+*.pyc
+__pycache__
+webpack-stats.json
+db.sqlite3
+insults/assets/bundles
+!insults/assets/bundles/.gitkeep
+env
+venv

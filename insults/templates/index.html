@@ -1,0 +1,17 @@
+{% load render_bundle from webpack_loader %}
+
+<html>
+  <head>
+    {% render_bundle 'main' 'css' %}
+  </head>
+
+  <body>
+    <div id="react"></div>
+
+    <script>
+      window.reactComponent = '{{ component }}';
+      window.reactData = JSON.parse('{{ data | escapejs }}');
+    </script>
+    {% render_bundle 'main' 'js' %}
+  </body>
+</html>

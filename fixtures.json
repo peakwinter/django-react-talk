@@ -1,0 +1,93 @@
+[
+  {
+    "model": "insults.insult",
+    "pk": 1,
+    "fields": {
+      "content": "Your mother was a hamster, and your father smells of elderberries!"
+    }
+  },
+  {
+    "model": "insults.insult",
+    "pk": 2,
+    "fields": {
+      "content": "You empty-headed animal food trough wiper!"
+    }
+  },
+  {
+    "model": "insults.insult",
+    "pk": 3,
+    "fields": {
+      "content": "I fart in your general direction!"
+    }
+  },
+  {
+    "model": "insults.insult",
+    "pk": 3,
+    "fields": {
+      "content": "Go away or I shall taunt you a second time!"
+    }
+  },
+  {
+    "model": "insults.insult",
+    "pk": 4,
+    "fields": {
+      "content": "Why do you think I have this outrageous accent, you silly king?"
+    }
+  },
+  {
+    "model": "insults.insult",
+    "pk": 5,
+    "fields": {
+      "content": "Mind your own business."
+    }
+  },
+  {
+    "model": "insults.insult",
+    "pk": 6,
+    "fields": {
+      "content": "You don't frighten us with your silly knees-bent running around advancing behavior!"
+    }
+  },
+  {
+    "model": "insults.insult",
+    "pk": 7,
+    "fields": {
+      "content": "I wave my private parts at your aunties, you cheesy lot of second hand electric donkey bottom biters!"
+    }
+  },
+  {
+    "model": "insults.insult",
+    "pk": 8,
+    "fields": {
+      "content": "I wave my private parts at your aunties, you cheesy lot of second hand electric donkey bottom biters!"
+    }
+  },
+  {
+    "model": "insults.insult",
+    "pk": 9,
+    "fields": {
+      "content": "You don't frighten us, English pig dogs!"
+    }
+  },
+  {
+    "model": "insults.insult",
+    "pk": 10,
+    "fields": {
+      "content": "Go and boil your bottoms, you sons of a silly person!"
+    }
+  },
+  {
+    "model": "insults.insult",
+    "pk": 11,
+    "fields": {
+      "content": "I blow my nose at you, so-called 'Arthur King', you and all your silly English K-nig-hts."
+    }
+  },
+  {
+    "model": "insults.insult",
+    "pk": 11,
+    "fields": {
+      "content": "Ni!" 
+    }
+  }
+]
